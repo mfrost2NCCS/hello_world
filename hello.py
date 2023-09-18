@@ -1,3 +1,6 @@
+print("hello earth!")
+print()
+
 print("Hello world!")
 print()
 
